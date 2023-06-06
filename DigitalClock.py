@@ -7,7 +7,7 @@ class DigitalClock(Tk):
 
     def __init__(self):
         super().__init__()
-        self.title("Digital Clock")
+        self.title("D I G I T A L   C L O C K")
         self.geometry("450x220")
         self.configure(background="black")
         self.iconbitmap("clock.ico")
